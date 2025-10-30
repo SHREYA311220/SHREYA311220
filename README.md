@@ -1,6 +1,5 @@
-## Hi there 👋
+## Welcome To Profile
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Intern
 - 🌱 I’m currently learning java Full Stack
