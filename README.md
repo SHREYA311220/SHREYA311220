@@ -14,43 +14,6 @@
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I enjoy transforming ideas into real-world applications and continuously learning new technologies.**
 
-## 🚀 Tech Stack
-
-### Programming Languages
-
-* Java
-* Python
-* JavaScript
-
-### Frontend Technologies
-
-* HTML5
-* CSS3
-* Bootstrap
-* React.js
-
-### Backend Technologies
-
-* Spring Boot
-* Django
-* Node.js
-* Express.js
-
-### Databases
-
-* MySQL
-* MongoDB
-* PostgreSQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Eclipse
-* IntelliJ IDEA
-
 ## 🎯 Career Objective
 
 Motivated MCA student and aspiring Full Stack Developer with expertise in Java Full Stack, Python Full Stack, and MERN Stack technologies. Passionate about designing, developing, and deploying scalable web applications while continuously improving problem-solving and software engineering skills.
