@@ -1,14 +1,60 @@
 ## Welcome To My Profile
 
 
-- 🔭 I’m currently working on Intern
-- 🌱 I’m currently learning java Full Stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Welcome To My Profile 👋
+
+## About Me
+
+* 🔭 I’m currently working on **Full Stack Development Projects** and enhancing my development skills.
+* 🌱 I’m currently learning **Advanced Java, Python, Django, Spring Boot, MERN Stack, REST APIs, and Cloud Technologies**.
+* 👯 I’m looking to collaborate on **Java Full Stack, Python Full Stack, MERN Stack, and Open Source Projects**.
+* 🤔 I’m looking for help with **System Design, Microservices, Cloud Deployment, and Scalable Application Development**.
+* 💬 Ask me about **Java, Spring Boot, Python, Django, MongoDB, MySQL, React.js, Node.js, Express.js, HTML, CSS, JavaScript, and Full Stack Development**.
+* 📫 How to reach me: **[shreyashgurav31@gmail.com]**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **I enjoy transforming ideas into real-world applications and continuously learning new technologies.**
+
+## 🚀 Tech Stack
+
+### Programming Languages
+
+* Java
+* Python
+* JavaScript
+
+### Frontend Technologies
+
+* HTML5
+* CSS3
+* Bootstrap
+* React.js
+
+### Backend Technologies
+
+* Spring Boot
+* Django
+* Node.js
+* Express.js
+
+### Databases
+
+* MySQL
+* MongoDB
+* PostgreSQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* Eclipse
+* IntelliJ IDEA
+
+## 🎯 Career Objective
+
+Motivated MCA student and aspiring Full Stack Developer with expertise in Java Full Stack, Python Full Stack, and MERN Stack technologies. Passionate about designing, developing, and deploying scalable web applications while continuously improving problem-solving and software engineering skills.
+..
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shreyash gurav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyash_gurav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-gurav-a84176268) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shreyash gurav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shreyash_gurav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyashgurav31@gmail.com) 
